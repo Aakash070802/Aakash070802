@@ -1,5 +1,22 @@
-# 💫 About Me:
-Hi 👋, I'm Aakash<br>MERN Stack Developer | B.Tech (Hons.) CSE Graduate<br><br>Passionate about building scalable backend systems and production-ready web applications. <br>Strong foundation in Data Structures & Algorithms using Python. <br>Focused on writing clean, maintainable code and understanding system design.<br><br><br>🔭 I’m currently working on improving backend architecture and building production-level MERN applications  <br><br>👯 I’m looking to collaborate on open-source MERN or DevOps based projects  <br><br>🤝 I’m looking for help with advanced system design and scalable backend patterns  <br><br>🌱 I’m currently learning Next.js, AWS & DevOps to strengthen production deployment skills  <br><br>💬 Ask me about MERN Stack, REST APIs, Authentication, Databases, and Docker  <br><br>⚡ Fun fact: I love turning complex backend logic into clean and structured systems.<br><br>### 🚀 Tech Stack<br><br>- 💻 **Languages:** JavaScript, Python<br>- 🌐 **Frontend:** React.js, Next.js, TailwindCSS  <br>- 🛠 **Backend:** Node.js, Express.js, PHP  <br>- 🗄 **Databases:** MongoDB, MySQL, PostgreSQL  <br>- ⚙️ **Tools:** Git, GitHub, Docker  <br>- ☁️ **Cloud & DevOps:** AWS (Basics), Deployment & CI/CD concepts<br><br>### 💼 Experience<br><br>**Web Developer Intern – Tosscoll Pvt. Ltd.**<br><br>- Built an NGO Management Portal  <br>- Developed an Employee Management System  <br>- Created a Learning Management System (LMS)  <br>- Tech Used: PHP, TailwindCSS, JavaScript, MySQL<br>
+<h1 align="center">Hi 👋, I'm Aakash</h1>
+<h3 align="center">Backend-Focused MERN Developer | B.Tech (Hons.) CSE</h3>
+
+<p align="center">
+I build scalable backend systems and production-ready web applications.
+Strong foundation in Data Structures & Algorithms using Python.
+Focused on clean architecture, authentication systems, and database design.
+</p>
+
+---
+
+## 🚀 What I’m Doing
+
+- 🔭 Building production-level MERN applications  
+- 🌱 Learning Next.js, AWS & DevOps for deployment and scalability  
+- 🤝 Open to collaborating on backend-heavy or system design projects  
+- 💬 Ask me about REST APIs, Authentication (JWT), MongoDB, SQL & Docker  
+
+---
 
 
 ## 🌐 Socials:
@@ -7,6 +24,7 @@ Hi 👋, I'm Aakash<br>MERN Stack Developer | B.Tech (Hons.) CSE Graduate<br><br
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aakash070802&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Aakash070802&theme=dark&hide_border=false)<br/>
