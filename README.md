@@ -32,6 +32,7 @@ Focused on clean architecture, authentication systems, and database design.
 ![](https://github-readme-stats.vercel.app/api?username=Aakash070802&show_icons=true&theme=tokyonight&cache_seconds=86400)
 ![](https://streak-stats.demolab.com?user=Aakash070802&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash070802&layout=compact&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aakash070802&theme=tokyonight)
 
 ---
 
