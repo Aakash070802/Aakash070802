@@ -175,16 +175,6 @@ Contributed to three production platforms as part of a full-stack engineering te
 
 ---
 
-## 📜 Certifications
-
-**DevOps**
-![DevOps Certified](https://github.com/Aakash070802/Aakash070802/blob/975028d2a05c4c30f919e5516930ce3a67455523/1778766929670.jpg)
-
-**LeetCode SQL 50**
-![SQL 50 Certified](https://github.com/Aakash070802/Aakash070802/blob/975028d2a05c4c30f919e5516930ce3a67455523/1782506975003.jpg)
-
----
-
 ## 👨‍💻 Coding Profiles
 
 <div align="center">
