@@ -189,7 +189,7 @@ Contributed to three production platforms as part of a full-stack engineering te
 
 <div align="center">
 
-<img height="165" src="https://streak-stats.demolab.com/?user=Aakash070802&theme=default&hide_border=true&background=0D1117&stroke=339933&ring=3178C6&fire=FFD43B&currStreakLabel=E6E6E6&sideLabels=E6E6E6&sideNums=E6E6E6&dates=8B949E"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=Aakash070802&theme=default&hide_border=true&background=0D1117&stroke=339933&ring=3178C6&fire=FFD43B&currStreakLabel=E6E6E6&currStreakNum=E6E6E6&sideLabels=E6E6E6&sideNums=E6E6E6&dates=8B949E"/>
 
 </div>
 
