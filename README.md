@@ -48,15 +48,19 @@ Open To:
 ## 🧬 Tech Stack
 
 **Languages**
+
 <p><img src="https://skillicons.dev/icons?i=js,ts,py,html,css&theme=dark"/></p>
 
 **Frontend**
+
 <p><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&theme=dark"/></p>
 
 **Backend & Databases**
+
 <p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis&theme=dark"/></p>
 
 **Cloud, DevOps & Tooling**
+
 <p><img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,postman,vscode&theme=dark"/></p>
 
 ---
@@ -65,12 +69,12 @@ Open To:
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Retrieval-Augmented Generation (RAG) | 🟣🟣🟣⚪⚪ | Concept-to-implementation exploration in a MERN + LLM context |
-| GenAI-Powered Search | 🟣🟣🟣🟣⚪ | Implemented AI-powered semantic search inside BrickNest |
-| Prompt Engineering | 🟣🟣🟣⚪⚪ | Structuring prompts for retrieval and generation pipelines |
-| Python for AI/ML (FastAPI, DRF) | 🟣🟣⚪⚪⚪ | Actively building production-level Python fluency |
+| Domain                               | Proficiency | Details                                                       |
+| ------------------------------------ | :---------: | ------------------------------------------------------------- |
+| Retrieval-Augmented Generation (RAG) | 🟣🟣🟣⚪⚪  | Concept-to-implementation exploration in a MERN + LLM context |
+| GenAI-Powered Search                 | 🟣🟣🟣🟣⚪  | Implemented AI-powered semantic search inside BrickNest       |
+| Prompt Engineering                   | 🟣🟣🟣⚪⚪  | Structuring prompts for retrieval and generation pipelines    |
+| Python for AI/ML (FastAPI, DRF)      | 🟣🟣⚪⚪⚪  | Actively building production-level Python fluency             |
 
 </div>
 
@@ -85,14 +89,14 @@ Open To:
 
 A full-stack MERN real estate platform with secure authentication, role-based access control, and AI-assisted property search.
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | React, Node.js, Express, MongoDB, Cloudinary |
-| **Scale** | Multi-role platform (Admin / Agent / User) |
-| **Performance** | Optimized media delivery via Cloudinary CDN |
-| **Security** | JWT authentication, Role-Based Access Control (RBAC) |
-| **Impact** | AI-powered search significantly improves property discovery UX |
-| **Repository** | [github.com/Aakash070802/BrickNest](https://github.com/Aakash070802) |
+| Attribute       | Detail                                                               |
+| --------------- | -------------------------------------------------------------------- |
+| **Stack**       | React, Node.js, Express, MongoDB, Cloudinary                         |
+| **Scale**       | Multi-role platform (Admin / Agent / User)                           |
+| **Performance** | Optimized media delivery via Cloudinary CDN                          |
+| **Security**    | JWT authentication, Role-Based Access Control (RBAC)                 |
+| **Impact**      | AI-powered search significantly improves property discovery UX       |
+| **Repository**  | [github.com/Aakash070802/BrickNest](https://github.com/Aakash070802) |
 
 BrickNest was engineered as a production-style property listing platform — implementing secure session handling, granular authorization layers, and cloud-based media management, with an AI search layer that improves relevance over traditional filter-based search.
 
@@ -105,14 +109,14 @@ BrickNest was engineered as a production-style property listing platform — imp
 
 A ledger-based REST API modeling real banking workflows with strict consistency guarantees.
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | Node.js, Express, MongoDB/PostgreSQL |
-| **Scale** | Multi-account ledger with transaction history |
-| **Performance** | Optimized read/write paths for transaction queries |
-| **Security** | Idempotent transaction workflows preventing double-processing |
-| **Impact** | Demonstrates production-grade financial data integrity patterns |
-| **Repository** | [github.com/Aakash070802/Banking-Management-System](https://github.com/Aakash070802) |
+| Attribute       | Detail                                                                               |
+| --------------- | ------------------------------------------------------------------------------------ |
+| **Stack**       | Node.js, Express, MongoDB/PostgreSQL                                                 |
+| **Scale**       | Multi-account ledger with transaction history                                        |
+| **Performance** | Optimized read/write paths for transaction queries                                   |
+| **Security**    | Idempotent transaction workflows preventing double-processing                        |
+| **Impact**      | Demonstrates production-grade financial data integrity patterns                      |
+| **Repository**  | [github.com/Aakash070802/Banking-Management-System](https://github.com/Aakash070802) |
 
 This system was designed around idempotency keys and atomic ledger updates to simulate the reliability guarantees expected in real banking infrastructure, prioritizing correctness over shortcuts.
 
@@ -125,14 +129,14 @@ This system was designed around idempotency keys and atomic ledger updates to si
 
 A native-bridged Android app that tracks Instagram Reels and YouTube Shorts scroll counts to promote digital wellbeing awareness.
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | React Native, Kotlin (AccessibilityService) |
-| **Scale** | Android-only MVP (iOS sandboxing restricts feasibility) |
-| **Performance** | Lightweight native event bridging to JS layer |
-| **Security** | Uses Android AccessibilityService within platform guidelines |
-| **Impact** | Gives users visibility into short-form content consumption habits |
-| **Repository** | *In active development* |
+| Attribute       | Detail                                                            |
+| --------------- | ----------------------------------------------------------------- |
+| **Stack**       | React Native, Kotlin (AccessibilityService)                       |
+| **Scale**       | Android-only MVP (iOS sandboxing restricts feasibility)           |
+| **Performance** | Lightweight native event bridging to JS layer                     |
+| **Security**    | Uses Android AccessibilityService within platform guidelines      |
+| **Impact**      | Gives users visibility into short-form content consumption habits |
+| **Repository**  | _In active development_                                           |
 
 Built a native Kotlin AccessibilityService module and bridged it to a React Native front end, solving cross-platform constraints by scoping the MVP intentionally to Android.
 
@@ -160,12 +164,12 @@ Contributed to three production platforms as part of a full-stack engineering te
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| B.Tech CGPA | 8.2 / 10 — CSVTU |
-| LeetCode SQL 50 | Completed full problem set in PostgreSQL, strong in window functions |
-| Production Contribution | Shipped features across 3 live platforms during internship |
-| Portfolio Projects | 2 flagship full-stack systems (BrickNest, Banking Management System) |
+| Recognition             | Details                                                              |
+| ----------------------- | -------------------------------------------------------------------- |
+| B.Tech CGPA             | 8.2 / 10 — CSVTU                                                     |
+| LeetCode SQL 50         | Completed full problem set in PostgreSQL, strong in window functions |
+| Production Contribution | Shipped features across 3 live platforms during internship           |
+| Portfolio Projects      | 2 flagship full-stack systems (BrickNest, Banking Management System) |
 
 </div>
 
@@ -178,7 +182,6 @@ Contributed to three production platforms as part of a full-stack engineering te
 
 **LeetCode SQL 50**
 ![SQL 50 Certified](https://drive.google.com/file/d/1pTiwfjmJyy6Uhnwtk0n_JCiI63pz6XWV/view?usp=sharing)
-
 
 ---
 
@@ -196,22 +199,7 @@ Contributed to three production platforms as part of a full-stack engineering te
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aakash070802&show_icons=true&theme=radical&hide_border=true&bg_color=1a0033&title_color=A78BFA&icon_color=8A2BE2&text_color=E6D9FF"/>
 <img height="165" src="https://streak-stats.demolab.com/?user=Aakash070802&theme=radical&hide_border=true&background=1a0033&stroke=4B0082&ring=8A2BE2&fire=A78BFA&currStreakLabel=E6D9FF"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash070802&layout=compact&theme=radical&hide_border=true&bg_color=1a0033&title_color=A78BFA&text_color=E6D9FF"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aakash070802&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
@@ -224,18 +212,6 @@ Contributed to three production platforms as part of a full-stack engineering te
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakash070802&theme=redical&bg_color=1a0033&color=A78BFA&line=8A2BE2&point=E6D9FF&hide_border=true"/>
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Aakash070802/Aakash070802/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> *Requires the [snake generator GitHub Action](https://github.com/Platane/snk) enabled on your profile repo.*
 
 ---
 
@@ -278,7 +254,7 @@ Open To:
 
 <div align="center">
 
-*"I don't just build features — I design systems that last."*
+_"I don't just build features — I design systems that last."_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:4b0082,100:1a0033&height=120&section=footer" width="100%"/>
 
