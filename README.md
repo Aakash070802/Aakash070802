@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://aakash-kashyap.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-kashyap-328340251)
 [![Email](https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashkashyap.dev07@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1a0033?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aakash070802)
